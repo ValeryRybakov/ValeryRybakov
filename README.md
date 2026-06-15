@@ -8,4 +8,4 @@ Full-Stack Developer. Building web applications from concept to deployment.
 
 *   🛍️ **FrendLis** — An e-commerce platform for clothing apparel.
 *   🎮 **FitGame** — A fitness application featuring gamification elements.
-*   🏠 **Spaininter** — A comprehensive real estate matching platform.
+*   🏠 **Spaininter** — A comprehensive real estate matching platform in Spain.
