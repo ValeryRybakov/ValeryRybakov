@@ -2,7 +2,7 @@
 
 Full-Stack Developer. Building web applications from concept to deployment.
 
-**Tech Stack:** React · Next.js · Django · DRF · PostgreSQL
+**Tech Stack:** React · Next.js · TypeScript · Django · DRF · PostgreSQL
 
 ### 🚀 Projects
 
